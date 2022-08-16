@@ -5,6 +5,7 @@ public class GithubKullanimi1 {
         System.out.println("Hello Word");
 
         System.out.println("That`s it");
+          System.out.println("That`mmms it");
 
     }
 }
