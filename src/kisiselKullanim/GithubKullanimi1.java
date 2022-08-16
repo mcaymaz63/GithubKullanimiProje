@@ -6,6 +6,7 @@ public class GithubKullanimi1 {
 
         System.out.println("That`s it");
           System.out.println("That`mmms it");
+        System.out.println("That`mmms itlknjjjknn");
 
     }
 }
