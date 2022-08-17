@@ -9,6 +9,8 @@ public class GithubKullanimi1 {
         System.out.println("That`mmms itlknjjjknn");
 
         System.out.println("Mevlut branchininde ortak class da degisiklik yaptim");
+        System.out.println("main branch degisiklik 1.satir");
+        System.out.println("main branch degisiklik 2.satir");
 
     }
 }
